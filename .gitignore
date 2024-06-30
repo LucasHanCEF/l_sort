@@ -1,0 +1,11 @@
+*.log
+*.jou
+
+*_outputs/
+*_project/
+
+*.Xil/
+
+*.str
+*.tmp
+
